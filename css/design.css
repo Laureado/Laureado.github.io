@@ -60,6 +60,10 @@ html, body{
     font-weight: 900;
 }
 
+.sticky-top{
+    /* top: 0; */
+}
+
 /* 
     css de sobre
 */
@@ -68,7 +72,7 @@ html, body{
 }
 
 .contenedor-titulo{
-    margin-top: 50px;
+    padding-top: 80px;
 }
 
 .sobre .box-shadow-full{
